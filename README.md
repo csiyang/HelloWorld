@@ -1,2 +1,3 @@
 # HelloWorld
-A simple test programme
+
+A simple project that will output the text "Hello World" to the screen.

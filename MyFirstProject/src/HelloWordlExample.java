@@ -2,7 +2,7 @@
 public class HelloWordlExample {
 
 	public static void main(String[] args) {
-		// Output Hello World to the user
+		// Outputs Hello World to user
 		System.out.println("Hellow World");
 
 	}
